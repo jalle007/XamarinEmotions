@@ -1,0 +1,6 @@
+D:\Projects\Xamarin\mini-hacks-master\microsoft-cognitive-services\solutions\iOSApp\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\Projects\Xamarin\mini-hacks-master\microsoft-cognitive-services\solutions\iOSApp\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+D:\Projects\Xamarin\mini-hacks-master\microsoft-cognitive-services\solutions\iOSApp\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+D:\Projects\Xamarin\mini-hacks-master\microsoft-cognitive-services\solutions\iOSApp\obj\iPhoneSimulator\Debug\optimized\
+D:\Projects\Xamarin\mini-hacks-master\microsoft-cognitive-services\solutions\iOSApp\obj\iPhoneSimulator\Debug\iOSApp.csprojResolveAssemblyReference.cache
+D:\Projects\Xamarin\mini-hacks-master\microsoft-cognitive-services\solutions\iOSApp\obj\iPhoneSimulator\Debug\iOSApp.csproj.iOSApp.exe.config
